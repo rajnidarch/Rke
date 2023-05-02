@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Segoe UI';
+    src: url('SegoeUI-BoldItalic.woff2') format('woff2'),
+        url('SegoeUI-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
